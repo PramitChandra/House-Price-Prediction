@@ -1,4 +1,4 @@
-# House Price Prediction Analysis - Oct 2023
+# House Price Prediction Analysis
 
 ## Overview:
 
